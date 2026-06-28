@@ -75,7 +75,7 @@ URL-Shortener/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/URLshortener.git
+git clone https://github.com/Kartheek-077/URLshortener.git
 ```
 
 ### Navigate into the project
